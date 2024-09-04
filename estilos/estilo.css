@@ -4,11 +4,15 @@ body {
 table {
     background-color: green;
 }
+
+tr{
+    background-color: aqua;
+    font: optional;
+    font-size: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
 td{
     background-color: green;
     font-weight: 100;
     font-display: inherit;
-}
-tr{
-    background-color: brown;
 }
