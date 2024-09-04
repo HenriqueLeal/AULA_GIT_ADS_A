@@ -4,3 +4,10 @@ body {
 table {
     background-color: green;
 }
+
+tr{
+    background-color: aqua;
+    font: optional;
+    font-size: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
