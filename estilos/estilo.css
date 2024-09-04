@@ -4,3 +4,11 @@ body {
 table {
     background-color: green;
 }
+td{
+    background-color: green;
+    font-weight: 100;
+    font-display: inherit;
+}
+tr{
+    background-color: brown;
+}
